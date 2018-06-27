@@ -15,7 +15,7 @@ Para contribuir com o projeto é muito fácil e cada pouquinho conta! Basta segu
 
 As *issues* devem possuir título, descrição, no mínimo um assinante responsável, *labels*,  *milestone*(a *sprint* que deve ser concluída) e *estimated*(puntuação) para as *issues* pontuadas.
 
-As Labels usadas no projeto estão descritas no tópico [Labels](https://github.com/Dulce-Work-Schedule/2018.1-Dulce_App/labels) no Github.
+As Labels usadas no projeto estão descritas no tópico [Labels](https://github.com/fga-gpp-mds/2018.1-Dulce_App/labels) no Github.
 
 Para criação de issue o [template Issue](docs/issue_template.md) deve ser seguido.
 

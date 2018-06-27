@@ -5,9 +5,9 @@
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dulce-Work-Schedule/2018.1-Dulce_App"
+    "url": "https://github.com/fga-gpp-mds/2018.1-Dulce_App"
   },
-  "homepage": "https://Dulce-Work-Schedule.github.io/2018.1-Dulce_App/",
+  "homepage": "https://fga-gpp-mds.github.io/2018.1-Dulce_Docs/",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -18,7 +18,7 @@
     "coverage": "rimraf coverage && ./node_modules/jest/bin/jest.js --updateSnapshot --runInBand --coverage",
     "coveralls": "./node_modules/coveralls/bin/coveralls.js"
   },
-  "bugs": "https://github.com/Dulce-Work-Schedule/2018.1-Dulce_App/issues",
+  "bugs": "https://github.com/fga-gpp-mds/2018.1-Dulce_App/issues",
   "dependencies": {
     "axios": "^0.18.0",
     "bluebird": "^3.3.5",

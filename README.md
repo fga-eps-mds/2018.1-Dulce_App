@@ -1,6 +1,6 @@
-[<img src="assets/img/DulceHorizontal.svg" width="1300" title="">](https://dulce-work-schedule.github.io/)
+[<img src="assets/img/DulceHorizontal.svg" width="1300" title="">](https://fga-gpp-mds.github.io/2018.1-Dulce_Docs/)
 # Dulce App
- [![Build Status](https://travis-ci.org/Dulce-Work-Schedule/2018.1-Dulce_App.svg?branch=master)](https://travis-ci.org/Dulce-Work-Schedule/2018.1-Dulce_App) [![Maintainability](https://api.codeclimate.com/v1/badges/b674488b430f6922207e/maintainability)](https://codeclimate.com/github/Dulce-Work-Schedule/2018.1-Dulce_App/maintainability) [![Coverage Status](https://coveralls.io/repos/github/Dulce-Work-Schedule/2018.1-Dulce_App/badge.svg?branch=master)](https://coveralls.io/github/Dulce-Work-Schedule/2018.1-Dulce_App?branch=master) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![Build Status](https://travis-ci.org/fga-gpp-mds/2018.1-Dulce_App.svg?branch=master)](https://travis-ci.org/fga-gpp-mds/2018.1-Dulce_App) [![Maintainability](https://api.codeclimate.com/v1/badges/b674488b430f6922207e/maintainability)](https://codeclimate.com/github/fga-gpp-mds/2018.1-Dulce_App/maintainability) [![Coverage Status](https://coveralls.io/repos/github/fga-gpp-mds/2018.1-Dulce_App/badge.svg?branch=master)](https://coveralls.io/github/fga-gpp-mds/2018.1-Dulce_App?branch=master) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ### Dulce
@@ -19,18 +19,18 @@ A Instalação do App pode ser feita para Android em breve será lançada a vers
 ### Contribuir
 Você quer contribuir com nosso projeto? É simples! Temos um [guia de contribuição](CONTRIBUTING.md) onde são explicados todos os passos para contribuir. Ahh, não esquece de ler nosso [código de conduta](CODE_OF_CONDUCT.md).   
 Caso reste duvidas você também pode entrar em contato conosco criando uma issue ou pelo email dulce.application@gmail.com.  
-Para contribuir com os microserviços acesse nossa organização:[Dulce Work Schedule](https://github.com/Dulce-Work-Schedule)
+Para contribuir com os microserviços acesse nossa organização:[Dulce Work Schedule](https://github.com/fga-gpp-mds/)
 
 ### Ambiente
 
 Para executar o ambiente do projeto acesse nosso [guia de instalação](guia_de_instalacao.md)
 
-Para acessar o ambiente de desenvolvimento acesse:  https://github.com/Dulce-Work-Schedule/
+Para acessar o ambiente de desenvolvimento acesse:  https://github.com/fga-gpp-mds/
 
 ### Documentação
 
-A documentação do projeto pode ser acessada pelo nosso site em https://dulce-work-schedule.github.io/ ou você pode acessar pela [Dulce Documentação](https://github.com/Dulce-Work-Schedule/Dulce-Work-Schedule.github.io)
+A documentação do projeto pode ser acessada pelo nosso site em https://fga-gpp-mds.github.io/2018.1-Dulce_Docs/ ou você pode acessar pela [Dulce Documentação](https://github.com/fga-gpp-mds.github.io/2018.1-Dulce_Docs/)
 
 
 ### Colaboradores
- As informações dos [colaboradores](https://Dulce-Work-Schedule.github.io/2018.1-Dulce_App/colaboradores.html) pode ser acessada na nossa página.
+ As informações dos [colaboradores](https://fga-gpp-mds.github.io/2018.1-Dulce_Docs/colaboradores.html) pode ser acessada na nossa página.
